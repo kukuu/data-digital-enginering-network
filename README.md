@@ -63,13 +63,36 @@ Technologies: AWS Lambda, AZURE    Functions, Google Cloud Functions.
 Technologies: Kong, Ambassador, and Traefik.
 
 - **Cloud Native Integration:**
+ These are applications designed to leverage cloud scalability, using containers, microservices, and dynamic orchestration.
+
+Technologies: Kubernetes, Docker, CI/CD pipelines, Serverless (e.g., AWS Lambda), and Service Meshes (e.g., Istio).
 
 - **AI & ML Integration:**
 
+This is the process of embedding artificial intelligence and machine learning capabilities into applications to enable data-driven automation and insights.
+
+Technologies: TensorFlow/PyTorch, scikit-learn, LangChain, OpenAI APIs, vector databases (e.g., Pinecone), and MLOps tools (e.g., MLflow, Kubeflow).
+
+
 - **Low Code / No Code Integration:**
+
+This refers to development platforms that enable application creation with minimal hand-coding, using visual interfaces and pre-built components.
+
+Technologies: Microsoft Power Apps, OutSystems, Bubble, Zapier, Airtable, and Retool.
 
 - **Blockchain Integration:**
 
+This is the process of incorporating decentralized ledger technology into systems for secure, transparent transactions (STT) and data management.
+
+Technologies: Ethereum/Solidity, Hyperledger Fabric, Web3.js, Smart Contracts, IPFS, and Crypto Wallets (e.g., MetaMask).
+
 - **Data Integration Platforms:**
 
+These are systems that combine data from multiple sources into a unified view for analysis and operations.
+
+Technologies: Apache Kafka, Talend, Informatica, AWS Glue, Fivetran, and Snowflake.
+
 - **Edge Computing  Integration:**
+This is the deployment of processing power closer to data sources (IoT devices, sensors) to reduce latency and bandwidth use.
+
+Technologies: AWS IoT Greengrass, Azure IoT Edge, Kubernetes (K3s), TensorFlow Lite, and MQTT protocol.
