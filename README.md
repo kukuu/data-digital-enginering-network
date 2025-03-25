@@ -19,7 +19,7 @@ Cloud services (AWS, Google, AZURE) , Machine Learning & AI,  Digital Transforma
 
 - Cloud Engineering
 
-- AI
+- AI & ML
 
 - Visualisation, Reporting & Insights 
 
