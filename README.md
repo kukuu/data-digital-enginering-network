@@ -29,7 +29,7 @@ Cloud services (AWS, Google, AZURE) , Machine Learning & AI,  Digital Transforma
 
 - Data: Datasets, Data Warehousing, Data Mining, Data Lakes & Data Science 
 
-- Cybersecurity
+- Cybersecurity & Cyberessentials
 
 - CI/CD/DevOps/DevSecOps
 
