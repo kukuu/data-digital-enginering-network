@@ -38,7 +38,23 @@ Working as Technical  Authority for delivery of Marks and Spencer's E-commerce p
 
 https://www.marksandspencer.com/ 
 
+## BBC 
 
+### RobboWebbie Validation Toolkit 
+
+Innovator and Author
+
+Designed and deployed RobboWebbie, an advanced validation toolkit for web document quality assurance at the BBC’s Interactive Factual & Learning (iF&L) and Future Media Technology teams. This tool combined ActiveX controls and data-binding components to automate the filtering and validation of web content against strict editorial and technical benchmarks, ensuring compliance with BBC standards before public delivery.
+
+**Key contributions:**
+
+i. Automated Quality Control: Streamlined detection of inconsistencies in markup, data integrity, and compliance, reducing manual review time.
+
+ii. Cross-Department Adoption: Recognized by BBC technical teams for improving content reliability and scalability during the early 2000s web expansion.
+
+iii. Academic Foundation: Built on research from my MSc thesis on data validation methodologies, bridging theoretical rigor with practical implementation.
+
+Impact: Became a critical tool for the BBC’s Webmaster team, reinforcing the corporation’s reputation for delivering high-quality digital content.
 
 
 ## .GOV.UK (Government Services)
