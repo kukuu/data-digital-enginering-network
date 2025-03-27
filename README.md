@@ -111,3 +111,6 @@ Technologies: Apache Kafka, Talend, Informatica, AWS Glue, Fivetran, and Snowfla
 This is the deployment of processing power closer to data sources (IoT devices, sensors) to reduce latency and bandwidth use.
 
 Technologies: AWS IoT Greengrass, Azure IoT Edge, Kubernetes (K3s), TensorFlow Lite, and MQTT protocol.
+
+## Team
+gjgggj
