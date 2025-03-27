@@ -16,7 +16,7 @@ This digital twin solution creates a virtual replica of physical energy meters, 
 
 As Technical Authority on the UK MoD’s StrikeNet project, I helped to architect a defence - grade digital twin that virtualized combat systems, integrating real-time analytics and AI to enhance mission readiness. 
 
-The solution reduced operational risks by 30% while improving asset managent and reliability - proving its value in high-stakes environments where cost efficiency and system resilience are critical.
+The solution reduced operational risks by 30% while improving asset management and reliability - proving its value in high-stakes environments where cost efficiency and system resilience are critical.
 
 
 
